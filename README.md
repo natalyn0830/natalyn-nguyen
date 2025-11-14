@@ -16,5 +16,5 @@ Excel: Data manipulation and visualization
 Data Analysis: Extracting insights from messy datasets
 
 Portfolio & Profiles
-Resume: [[Insert Your Resume Link Here]](https://docs.google.com/document/d/1iKxWi6YzLmJy8l5ZGFQFSgzEc_g8wr2aPBSbQk49aWQ/edit?usp=sharing)
+Resume: (https://docs.google.com/document/d/1iKxWi6YzLmJy8l5ZGFQFSgzEc_g8wr2aPBSbQk49aWQ/edit?usp=sharing)
 LinkedIn: (https://www.linkedin.com/in/natalyn-nguyen/) 
