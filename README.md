@@ -5,8 +5,8 @@ Hi! I recently completed the TripleTen BI Analytics Bootcamp, where I gained han
 
 Fun Facts
 I love exploring trends in tech and entertainment.
-I enjoy building dashboards and visualizations that make complex data easy to understand.
-I have a curiosity for analyzing patterns and solving real-world problems.
+I enjoy outdoor activities.
+I have a rock cl;imbinmg for over 4 years.
 
 Tech Skills
 SQL: Data cleaning, querying, and transformation
